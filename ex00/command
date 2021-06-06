@@ -1,0 +1,4 @@
+
+chmod 666 ControlIsAnIllusion.sh
+chmod 760 main.py 
+

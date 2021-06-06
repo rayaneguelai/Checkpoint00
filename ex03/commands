@@ -1,0 +1,2 @@
+sed "s/Corbeau/Chat/g" leCorbeauEtLeRenard.txt
+sed '/confus/ s/Corbeau/Lolita/g' leCorbeauEtLeRenard.txt
